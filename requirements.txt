@@ -9,6 +9,10 @@ ipykernel
 pandas
 numpy
 
+# Week 4：版面感知文檔解析與視覺化 (Layout-aware document parsing & visualization)
+docling
+matplotlib
+
 # =====================================================================
 # 後續週次的套件 (如：中文斷詞、機器學習、API 等) 將隨著課程進度新增至此處。
 # 
